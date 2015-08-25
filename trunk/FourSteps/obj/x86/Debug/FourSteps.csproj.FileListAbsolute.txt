@@ -1,0 +1,100 @@
+C:\Users\computer\AppData\Local\Temporary Projects\FourSteps\bin\Debug\FourSteps.exe
+C:\Users\computer\AppData\Local\Temporary Projects\FourSteps\bin\Debug\FourSteps.pdb
+C:\Users\computer\AppData\Local\Temporary Projects\FourSteps\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\computer\AppData\Local\Temporary Projects\FourSteps\obj\x86\Debug\FourSteps.Form1.resources
+C:\Users\computer\AppData\Local\Temporary Projects\FourSteps\obj\x86\Debug\FourSteps.Properties.Resources.resources
+C:\Users\computer\AppData\Local\Temporary Projects\FourSteps\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\computer\AppData\Local\Temporary Projects\FourSteps\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\computer\AppData\Local\Temporary Projects\FourSteps\obj\x86\Debug\FourSteps.exe
+C:\Users\computer\AppData\Local\Temporary Projects\FourSteps\obj\x86\Debug\FourSteps.pdb
+C:\Users\computer\AppData\Local\Temporary Projects\FourSteps\obj\x86\Debug\FourSteps.Main.resources
+C:\Users\computer\documents\visual studio 2010\Projects\FourSteps\FourSteps\obj\x86\Debug\FourSteps.exe
+C:\Users\computer\documents\visual studio 2010\Projects\FourSteps\FourSteps\bin\Debug\FourSteps.exe
+C:\Users\computer\documents\visual studio 2010\Projects\FourSteps\FourSteps\bin\Debug\FourSteps.pdb
+C:\Users\computer\documents\visual studio 2010\Projects\FourSteps\FourSteps\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\computer\documents\visual studio 2010\Projects\FourSteps\FourSteps\obj\x86\Debug\FourSteps.Main.resources
+C:\Users\computer\documents\visual studio 2010\Projects\FourSteps\FourSteps\obj\x86\Debug\FourSteps.Properties.Resources.resources
+C:\Users\computer\documents\visual studio 2010\Projects\FourSteps\FourSteps\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\computer\documents\visual studio 2010\Projects\FourSteps\FourSteps\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\computer\documents\visual studio 2010\Projects\FourSteps\FourSteps\obj\x86\Debug\FourSteps.pdb
+C:\Users\computer\documents\visual studio 2010\Projects\FourSteps\FourSteps\bin\Debug\AForge.dll
+C:\Users\computer\documents\visual studio 2010\Projects\FourSteps\FourSteps\bin\Debug\AForge.Imaging.dll
+C:\Users\computer\documents\visual studio 2010\Projects\FourSteps\FourSteps\bin\Debug\AForge.Math.dll
+C:\Users\computer\Desktop\FourStepsv2\FourSteps\obj\x86\Debug\FourSteps.exe
+C:\Users\computer\Desktop\FourStepsv2\FourSteps\obj\x86\Debug\FourSteps.pdb
+C:\Users\computer\Desktop\FourStepsv2\FourSteps\bin\Debug\FourSteps.exe
+C:\Users\computer\Desktop\FourStepsv2\FourSteps\bin\Debug\FourSteps.pdb
+C:\Users\computer\Desktop\FourStepsv2\FourSteps\bin\Debug\AForge.dll
+C:\Users\computer\Desktop\FourStepsv2\FourSteps\bin\Debug\AForge.Imaging.dll
+C:\Users\computer\Desktop\FourStepsv2\FourSteps\bin\Debug\AForge.Math.dll
+C:\Users\computer\Desktop\FourStepsv2\FourSteps\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\computer\Desktop\FourStepsv2\FourSteps\obj\x86\Debug\FourSteps.Main.resources
+C:\Users\computer\Desktop\FourStepsv2\FourSteps\obj\x86\Debug\FourSteps.Properties.Resources.resources
+C:\Users\computer\Desktop\FourStepsv2\FourSteps\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\computer\Desktop\FourStepsv2\FourSteps\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\computer\Desktop\FourStepsv2\FourSteps\obj\x86\Debug\FourSteps.OptionsMenu.resources
+C:\Users\computer\Desktop\FourStepsv3\FourSteps\bin\Debug\FourSteps.exe
+C:\Users\computer\Desktop\FourStepsv3\FourSteps\bin\Debug\FourSteps.pdb
+C:\Users\computer\Desktop\FourStepsv3\FourSteps\bin\Debug\AForge.dll
+C:\Users\computer\Desktop\FourStepsv3\FourSteps\bin\Debug\AForge.Imaging.dll
+C:\Users\computer\Desktop\FourStepsv3\FourSteps\bin\Debug\AForge.Math.dll
+C:\Users\computer\Desktop\FourStepsv3\FourSteps\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\computer\Desktop\FourStepsv3\FourSteps\obj\x86\Debug\FourSteps.Main.resources
+C:\Users\computer\Desktop\FourStepsv3\FourSteps\obj\x86\Debug\FourSteps.OptionsMenu.resources
+C:\Users\computer\Desktop\FourStepsv3\FourSteps\obj\x86\Debug\FourSteps.Properties.Resources.resources
+C:\Users\computer\Desktop\FourStepsv3\FourSteps\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\computer\Desktop\FourStepsv3\FourSteps\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\computer\Desktop\FourStepsv3\FourSteps\obj\x86\Debug\FourSteps.exe
+C:\Users\computer\Desktop\FourStepsv3\FourSteps\obj\x86\Debug\FourSteps.pdb
+C:\Users\computer\Desktop\FourStepsv4\FourSteps\obj\x86\Debug\FourSteps.exe
+C:\Users\computer\Desktop\FourStepsv4\FourSteps\obj\x86\Debug\FourSteps.pdb
+C:\Users\computer\Desktop\FourStepsv4\FourSteps\bin\Debug\FourSteps.exe
+C:\Users\computer\Desktop\FourStepsv4\FourSteps\bin\Debug\FourSteps.pdb
+C:\Users\computer\Desktop\FourStepsv4\FourSteps\bin\Debug\AForge.dll
+C:\Users\computer\Desktop\FourStepsv4\FourSteps\bin\Debug\AForge.Imaging.dll
+C:\Users\computer\Desktop\FourStepsv4\FourSteps\bin\Debug\AForge.Math.dll
+C:\Users\computer\Desktop\FourStepsv4\FourSteps\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\computer\Desktop\FourStepsv4\FourSteps\obj\x86\Debug\FourSteps.Main.resources
+C:\Users\computer\Desktop\FourStepsv4\FourSteps\obj\x86\Debug\FourSteps.OptionsMenu.resources
+C:\Users\computer\Desktop\FourStepsv4\FourSteps\obj\x86\Debug\FourSteps.Properties.Resources.resources
+C:\Users\computer\Desktop\FourStepsv4\FourSteps\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\computer\Desktop\FourStepsv4\FourSteps\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\computer\Desktop\FourStepsv4\FourSteps\obj\x86\Debug\FourSteps.FirstTimeRun.resources
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\obj\x86\Debug\FourSteps.exe
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\obj\x86\Debug\FourSteps.pdb
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\bin\Debug\FourSteps.exe
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\bin\Debug\FourSteps.pdb
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\bin\Debug\AForge.dll
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\bin\Debug\AForge.Imaging.dll
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\bin\Debug\AForge.Math.dll
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\obj\x86\Debug\FourSteps.FirstTimeRun.resources
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\obj\x86\Debug\FourSteps.Main.resources
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\obj\x86\Debug\FourSteps.OptionsMenu.resources
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\obj\x86\Debug\FourSteps.Properties.Resources.resources
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\bin\Debug\FourSteps.exe.manifest
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\bin\Debug\FourSteps.application
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\obj\x86\Debug\FourSteps.exe.manifest
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\obj\x86\Debug\FourSteps.application
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\obj\x86\Debug\FourSteps.exe
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\obj\x86\Debug\FourSteps.pdb
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\bin\Debug\FourSteps.exe.manifest
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\bin\Debug\FourSteps.application
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\bin\Debug\FourSteps.exe
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\bin\Debug\FourSteps.pdb
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\bin\Debug\AForge.dll
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\bin\Debug\AForge.Imaging.dll
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\bin\Debug\AForge.Math.dll
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\obj\x86\Debug\FourSteps.FirstTimeRun.resources
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\obj\x86\Debug\FourSteps.Main.resources
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\obj\x86\Debug\FourSteps.OptionsMenu.resources
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\obj\x86\Debug\FourSteps.Properties.Resources.resources
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\obj\x86\Debug\FourSteps.exe.manifest
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\obj\x86\Debug\FourSteps.application
+C:\Users\computer\Desktop\zoommouse\FourSteps\obj\x86\Debug\FourSteps.exe
+C:\Users\computer\Desktop\zoommouse\FourSteps\obj\x86\Debug\FourSteps.pdb

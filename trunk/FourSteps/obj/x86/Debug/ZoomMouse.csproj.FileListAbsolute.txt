@@ -1,0 +1,38 @@
+C:\Users\computer\Desktop\zoommouse\FourSteps\bin\Debug\ZoomMouse.exe.manifest
+C:\Users\computer\Desktop\zoommouse\FourSteps\bin\Debug\ZoomMouse.application
+C:\Users\computer\Desktop\zoommouse\FourSteps\bin\Debug\ZoomMouse.exe
+C:\Users\computer\Desktop\zoommouse\FourSteps\bin\Debug\ZoomMouse.pdb
+C:\Users\computer\Desktop\zoommouse\FourSteps\bin\Debug\AForge.dll
+C:\Users\computer\Desktop\zoommouse\FourSteps\bin\Debug\AForge.Imaging.dll
+C:\Users\computer\Desktop\zoommouse\FourSteps\bin\Debug\AForge.Math.dll
+C:\Users\computer\Desktop\zoommouse\FourSteps\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\computer\Desktop\zoommouse\FourSteps\obj\x86\Debug\ZoomMouse.FirstTimeRun.resources
+C:\Users\computer\Desktop\zoommouse\FourSteps\obj\x86\Debug\ZoomMouse.Main.resources
+C:\Users\computer\Desktop\zoommouse\FourSteps\obj\x86\Debug\ZoomMouse.OptionsMenu.resources
+C:\Users\computer\Desktop\zoommouse\FourSteps\obj\x86\Debug\ZoomMouse.Properties.Resources.resources
+C:\Users\computer\Desktop\zoommouse\FourSteps\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\computer\Desktop\zoommouse\FourSteps\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\computer\Desktop\zoommouse\FourSteps\obj\x86\Debug\ZoomMouse.exe.manifest
+C:\Users\computer\Desktop\zoommouse\FourSteps\obj\x86\Debug\ZoomMouse.application
+C:\Users\computer\Desktop\zoommouse\FourSteps\obj\x86\Debug\ZoomMouse.exe
+C:\Users\computer\Desktop\zoommouse\FourSteps\obj\x86\Debug\ZoomMouse.pdb
+C:\Users\computer\Desktop\zoommouse\FourSteps\obj\x86\Debug\ZoomMouse.RangeWindow.resources
+C:\Users\computer\Desktop\final projects\zoommouse\FourSteps\obj\x86\Debug\ZoomMouse.exe
+C:\Users\computer\Desktop\final projects\zoommouse\FourSteps\obj\x86\Debug\ZoomMouse.pdb
+C:\Users\computer\Desktop\final projects\zoommouse\FourSteps\bin\Debug\ZoomMouse.exe.manifest
+C:\Users\computer\Desktop\final projects\zoommouse\FourSteps\bin\Debug\ZoomMouse.application
+C:\Users\computer\Desktop\final projects\zoommouse\FourSteps\bin\Debug\ZoomMouse.exe
+C:\Users\computer\Desktop\final projects\zoommouse\FourSteps\bin\Debug\ZoomMouse.pdb
+C:\Users\computer\Desktop\final projects\zoommouse\FourSteps\bin\Debug\AForge.dll
+C:\Users\computer\Desktop\final projects\zoommouse\FourSteps\bin\Debug\AForge.Imaging.dll
+C:\Users\computer\Desktop\final projects\zoommouse\FourSteps\bin\Debug\AForge.Math.dll
+C:\Users\computer\Desktop\final projects\zoommouse\FourSteps\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\computer\Desktop\final projects\zoommouse\FourSteps\obj\x86\Debug\ZoomMouse.FirstTimeRun.resources
+C:\Users\computer\Desktop\final projects\zoommouse\FourSteps\obj\x86\Debug\ZoomMouse.Main.resources
+C:\Users\computer\Desktop\final projects\zoommouse\FourSteps\obj\x86\Debug\ZoomMouse.OptionsMenu.resources
+C:\Users\computer\Desktop\final projects\zoommouse\FourSteps\obj\x86\Debug\ZoomMouse.Properties.Resources.resources
+C:\Users\computer\Desktop\final projects\zoommouse\FourSteps\obj\x86\Debug\ZoomMouse.RangeWindow.resources
+C:\Users\computer\Desktop\final projects\zoommouse\FourSteps\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\computer\Desktop\final projects\zoommouse\FourSteps\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\computer\Desktop\final projects\zoommouse\FourSteps\obj\x86\Debug\ZoomMouse.exe.manifest
+C:\Users\computer\Desktop\final projects\zoommouse\FourSteps\obj\x86\Debug\ZoomMouse.application

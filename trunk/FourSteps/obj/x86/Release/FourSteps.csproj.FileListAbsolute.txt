@@ -1,0 +1,41 @@
+C:\Users\computer\documents\visual studio 2010\Projects\FourSteps\FourSteps\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\computer\documents\visual studio 2010\Projects\FourSteps\FourSteps\obj\x86\Release\FourSteps.Main.resources
+C:\Users\computer\documents\visual studio 2010\Projects\FourSteps\FourSteps\obj\x86\Release\FourSteps.Properties.Resources.resources
+C:\Users\computer\documents\visual studio 2010\Projects\FourSteps\FourSteps\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\computer\documents\visual studio 2010\Projects\FourSteps\FourSteps\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\bin\Release\FourSteps.exe
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\bin\Release\FourSteps.pdb
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\bin\Release\AForge.dll
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\bin\Release\AForge.Imaging.dll
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\bin\Release\AForge.Math.dll
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\obj\x86\Release\FourSteps.FirstTimeRun.resources
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\obj\x86\Release\FourSteps.Main.resources
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\obj\x86\Release\FourSteps.OptionsMenu.resources
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\obj\x86\Release\FourSteps.Properties.Resources.resources
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\obj\x86\Release\FourSteps.exe
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\obj\x86\Release\FourSteps.pdb
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\bin\Release\FourSteps.exe.manifest
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\bin\Release\FourSteps.application
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\obj\x86\Release\FourSteps.exe.manifest
+C:\Users\computer\Desktop\final projects\fourstepsv4\FourSteps\obj\x86\Release\FourSteps.application
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\bin\Release\FourSteps.exe.manifest
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\bin\Release\FourSteps.application
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\bin\Release\FourSteps.exe
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\bin\Release\FourSteps.pdb
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\bin\Release\AForge.dll
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\bin\Release\AForge.Imaging.dll
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\bin\Release\AForge.Math.dll
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\obj\x86\Release\FourSteps.FirstTimeRun.resources
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\obj\x86\Release\FourSteps.Main.resources
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\obj\x86\Release\FourSteps.OptionsMenu.resources
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\obj\x86\Release\FourSteps.Properties.Resources.resources
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\obj\x86\Release\FourSteps.exe.manifest
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\obj\x86\Release\FourSteps.application
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\obj\x86\Release\FourSteps.exe
+C:\Users\computer\Desktop\final projects\fourstepsv5\FourSteps\obj\x86\Release\FourSteps.pdb
